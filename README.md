@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋, I'm Sarim </h1>
 
-<h4 align="center"> Full‑stack dev crafting scalable microservices with Java, GenAI & caffeine‑driven commits</h4>
+<h4 align="center"> Full‑stack developer crafting scalable microservices with Java, GenAI & caffeine‑driven commits</h4>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="500"/>
