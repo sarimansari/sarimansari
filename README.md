@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋, I'm Sarim </h1>
 
-<h4 align="center"> Full‑stack developer crafting scalable microservices with Java, GenAI & caffeine‑driven commits</h4>
+<h4 align="center"> Full‑Stack developer crafting scalable platforms with Java, GenAI & caffeine‑driven commits</h4>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="500"/>
@@ -10,10 +10,12 @@
 
 💼 **Morgan Stanley** | **Accolite** | **Infosys**  
 
+🔧 7+ years building **enterprise-scale systems**
+
 🤖 Currently exploring **GenAI + System Design**  
 
 💡 Ask me about **Java, Spring Boot, GenAI, Microservices, scalable system architecture**  
 
-🤝 Reach out to me on <a href="https://linkedin.com/in/sarimansari"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn Badge"/> </a>
+🤝 Let's connect on <a href="https://linkedin.com/in/sarimansari"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn Badge"/> </a>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sarimansari&color=blue" alt="sarimansari"/> </p>
